@@ -43,4 +43,4 @@ Open `newzelandairlines.ipynb` in Jupyter and run cells in order.
 
 ---
 
-[View repo on GitHub](https://github.com/elenajdata/air_new_zealand_review_analysis) &nbsp;|&nbsp; [Portfolio](https://github.com/elenajdata)
+[View repo on GitHub](https://github.com/elenajdata/skytrax-airline-review-analysis) &nbsp;|&nbsp; [Portfolio](https://github.com/elenajdata)
